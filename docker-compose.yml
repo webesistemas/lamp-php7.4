@@ -13,7 +13,7 @@ services:
     image: mysql:5.7
     container_name: bdMysql
     volumes:
-      - ./db:/var/lib/mysql
+      - ./data:/var/lib/mysql
     environment:
       - MYSQL_ROOT_PASSWORD=root
       - MYSQL_DATABASE=teste    

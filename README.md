@@ -1,6 +1,6 @@
 # lamp-php7.4
 
-## PHP 7.4.15 Composer mysql 5.7 phpmyadmin
+## PHP 7.4.15, Composer, mysql 5.7 e phpmyadmin
 
 ---
 ### Pastas
