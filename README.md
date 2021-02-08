@@ -5,11 +5,11 @@
 ---
 ### Pastas
 - src: pasta raiz do servidor onde ficarão seus códigos PHP
-- data: pasta onde o mysql gravara os arquivos do banco de dados
+- data: pasta onde o mysql criará os arquivos do banco de dados
 
 Executando o projeto
 --------
-Esse teste com um ambiente Docker funcional, ou seja, basta rodar os comandos para subir o container da aplicação e acessar a URL do projeto no navegador.
+Esse é um ambiente Docker funcional, ou seja, basta rodar os comandos para subir o container da aplicação e acessar a URL do projeto no navegador.
 
 Para rodar o ambiente, é necessário ter o Docker Compose instalado, e rodar o seguinte comando:
 > docker-compose up -d
